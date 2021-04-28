@@ -47,6 +47,9 @@ nav a:hover{
     transition: all 0.3s ease-in-out 0s;
     color: black;
 }
+.aktiv{
+    color: black;
+}
 /* logo style*/
 .logo{
     position: relative;
